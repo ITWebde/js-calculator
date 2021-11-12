@@ -1,0 +1,26 @@
+body 
+{
+    background: #3639ee;
+}
+.h1 
+{
+    color: #fff;
+    letter-spacing: 3rem;
+    text-shadow: 0px 0px 12px black;
+}
+.butn
+{
+    display: flex;
+    justify-content: center;
+}
+.inb
+{
+    width: 300px;
+}
+.img 
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
